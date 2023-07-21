@@ -1,19 +1,19 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: kebsite
+description: Kenny Tran's personal website
+taglong: A wesbite created in Jekyll in July 2023
+tagshort: A Jekyll website
+url: https://khtran1.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/khtran1/khtran1.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Kenny Tran
+  email: kennytran4302@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # build settings
