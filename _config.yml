@@ -1,9 +1,9 @@
 # site settings
 
-title: kebsite
+title: Kenny Tran
 description: Kenny Tran's personal website
-taglong: A wesbite created in Jekyll in July 2023
-tagshort: A Jekyll website
+taglong: CS @ UC Santa Barbara
+tagshort: CS @ UC Santa Barbara
 url: https://khtran1.github.io
 baseurl: ""
 permalink: pretty
