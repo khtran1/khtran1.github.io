@@ -15,9 +15,8 @@ title: CV
 
 ###### Computer Science B.S. | Oct 2020 - June 2024 | GPA: 3.63 (Aug 2023)
 
-Finance and Outreach Officer for Gaucho Gaming
+Finance and Outreach Officer for Gaucho Gaming, UCSB's biggest social gaming club
 * Coordinated yearly budgets and secured sponsorships and funding with various tech companies, including MSI, Corsair, and Seasonic
-* Currently building a club website to expand our online presence and reach
 
 <details>
     <summary>Relevant Coursework</summary>
@@ -29,9 +28,9 @@ Finance and Outreach Officer for Gaucho Gaming
         <li> Automata Theory (CS 138, S23) </li>
         <li> Intro to Artificial Intelligence and Machine Learning (CS 165A-B, S23) </li>
         <li> Advanced Application Programming (CS 156, S23) </li>
-        <li> Mobile App Development (CS 184, Planned F23) </li>
-        <li> Fundamentals of Database Systems (CS 174A, Planned F23) </li>
-        <li> Intro to Deep Learning (CS 190I, Planned F23) </li>
+        <li> Mobile App Development (CS 184, F23) </li>
+        <li> Fundamentals of Database Systems (CS 174A, F23) </li>
+        <li> Internet of Things (IoT) (CS 190I, F23) </li>
     </ul>
 </details>
 
@@ -50,7 +49,7 @@ Symphonic Band and Orchestra
 AP Scholar with Honors
 
 
-## Experience
+## Work Experience
 
 ---
 
@@ -59,8 +58,23 @@ AP Scholar with Honors
 ###### Remote | May 2021 - Aug 2021
 
 * Unpaid, remote summer internship at a small quantitative trading firm based in New York
+* Developed compelling and insightful data visualizations highlighting intricate patterns in financial market data with Python (Matplotlib, Seaborn, Pandas)
 * Observed global market open/close and qualitative market news related to specific asset classes
 * Interacted and executed market trades via trade venues
+* Collaborated within a team to clean and normalize back-office data using Python and SQL queries
+
+
+## Projects
+
+---
+
+### mnist-draw
+
+###### Sept 2023
+
+* Developed a program that uses a neural network to predict a user's hand-drawn number with 95% accuracy.
+* Neural network is trained in Python using Tensorflow/Keras
+* Future plans include implementing a Recurrent neural network (RNN) to allow a user to retrain the model.
 
 ---
 
