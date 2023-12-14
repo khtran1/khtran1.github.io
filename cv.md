@@ -36,19 +36,6 @@ Finance and Outreach Officer for Gaucho Gaming, UCSB's biggest social gaming clu
 </details>
 
 
-### Weston Ranch High School
-
-###### Stockton, CA | Sept 2016 - May 2020 | GPA: 4.2
-
-Key Club
-* Clocked over 200 hours of volunteer work over two years dedicated to non-profit organizations ranging from academic tutoring to homeless shelters and charities across Stockton, CA.
-
-Symphonic Band and Orchestra
-* Lead cellist for three years; mentored other cellists with technique, sound, and performance
-
-AP Scholar with Honors
-
-
 ## Work Experience
 ---
 
@@ -64,7 +51,7 @@ AP Scholar with Honors
 ## Projects
 ---
 
-Source code for projects can be found on my [Github](https://github.com/khtran1) or by request!
+Source code for projects can be found on my [Github](https://github.com/khtran1) or by request.
 
 ### "Wave" - Social Mobile App
 ###### Dec 2023 | Flutter, Dart, Google Firebase, Android/iOS
