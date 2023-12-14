@@ -2,11 +2,26 @@
 
 <div class="archive">
   {% for yearMonth in postsByYearMonth %}
-  <h2>{{ yearMonth.name }}</h2>
-  <ul>
+    {% assign exclude_month = false %}
     {% for post in yearMonth.items %}
-    <li><a href="{{ post.url }}">{{ post.title }}.</a> <span class="lead">{{ post.lead }}</span></li>
+      {% if post.exclude == true %}
+        {% assign exclude_month = true %}
+        {% break %}
+      {% endif %}
     {% endfor %}
-  </ul>
+
+    {% unless exclude_month %}
+      <h2>{{ yearMonth.name }}</h2>
+      <ul>
+        {% for post in yearMonth.items %}
+          {% unless post.exclude == true %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}.</a>
+              <span class="lead">{{ post.lead }}</span>
+            </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    {% endunless %}
   {% endfor %}
 </div>
