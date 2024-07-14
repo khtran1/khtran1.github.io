@@ -12,9 +12,9 @@ title: CV
 ---
 
 ### University of California, Santa Barbara
-###### Computer Science B.S. | Oct 2020 - June 2024 | GPA: 3.63 (Aug 2023)
+###### Computer Science B.S. | Oct 2020 - June 2024
 
-Finance and Outreach Officer for Gaucho Gaming, UCSB's biggest social gaming club
+Partnerships and Finances Officer @ Gaucho Gaming
 * Coordinated yearly budgets and secured sponsorships and funding with various tech companies, including MSI, Corsair, and Seasonic
 
 <details>
@@ -31,7 +31,9 @@ Finance and Outreach Officer for Gaucho Gaming, UCSB's biggest social gaming clu
         <li> Fundamentals of Database Systems (CS 174A, F23) </li>
         <li> Algorithms Engineering (CS 190I, W24) </li>
         <li> Operating Systems (CS 170, W24) </li>
-        <li> Programming Languages (CS 162, W24) </li>
+        <li> Parallel Computing (CS 140, W24) </li>
+        <li> Compiler Design (CS 160, S24) </li>
+        <li> Networking and Cybersecurity (CS 177, S24) </li>
     </ul>
 </details>
 
@@ -39,13 +41,13 @@ Finance and Outreach Officer for Gaucho Gaming, UCSB's biggest social gaming clu
 ## Work Experience
 ---
 
-### Daesy Analytics & Trading LLC
+### Data Engineer Intern @ Daesy Analytics & Trading LLC
 ###### Remote | May 2021 - Aug 2021
 
-* Unpaid, remote summer internship at a small quantitative trading firm based in New York
-* Engineered compelling and insightful data visualizations highlighting intricate patterns in financial market data with Python (Matplotlib, Seaborn, Pandas)
-* Analyzed market data and qualitative financial news, creating efficient data pipelines for other analysts
-* Led fellow interns within Agile team to extensively clean and normalize back-office data spreadsheets using Python and SQL, increasing database efficiency and productivity of employees by ~45%
+* Engineered efficient data pipelines through statistical analysis of financial instruments and market data
+* Optimized database efficiency by ~45% by leading fellow interns within Agile team to extensively clean and normalize back-office data spreadsheets utilizing Python and SQL
+* Designed compelling and insightful data visualizations highlighting intricate patterns in financial market data with Python (MatPlotLib, Seaborn)
+
 
 
 ## Projects
@@ -53,20 +55,31 @@ Finance and Outreach Officer for Gaucho Gaming, UCSB's biggest social gaming clu
 
 Source code for projects can be found on my [Github](https://github.com/khtran1) or by request.
 
+### Financial Information eXchange Parser + Algorithmic Trader
+###### July 2024 | C++, Python
+
+* Working on an automatic algorithmic trading system utilizing the FIX protocol to receive real-time financial data
+* Planned features include financial modelling and execution of low-latency trades
+
+
 ### "Wave" - Social Mobile App
 ###### Dec 2023 | Flutter, Dart, Google Firebase, Android/iOS
 
-* Led Agile team of four to develop ‘Wave’, a mobile app allowing users to share open invitations to events through a responsive and visually appealing interface
-* Integrated Firebase authentication and Firestore Cloud Databases to optimize real-time data management
+* Directed Agile team of four to develop ‘Wave,’ a cross-platform mobile app allowing users to share open invitations to events, with the Flutter framework and Dart language
+* Integrated OAuth and utilized Firestore Cloud Databases to optimize real-time data management of 100+ users
+* Performed regular code reviews of team code, identifying code smells and refactoring code where needed
 * Distinguished by teaching team as one of the top projects of the course
+
 
 
 ### "StarsRUs" - Database Management System (DBMS)
 ###### Nov 2023 | Java, JDBC, Oracle Cloud, SQL
 
-* Collaborated with a partner to build a database management system (DBMS) for a fictional stock brokerage firm as part of a final project for a databases course (CS 174A) at UCSB
-* Provides a functional user interface for both trader and manager users
-* Received exceptionally positive feedback during presentations for the system's reliability and responsiveness
+* Engineered DBMS for fictional brokerage, leveraging SQL queries on Oracle Cloud-based relational database
+* Collaborated with partner to design database architecture and relations, ensuring compliance with Boyce-Codd Normal Form (BCNF)
+* Optimized query performance, reducing response time by 40% and enhancing data security protocols
+* Received exceptionally positive feedback from teaching team for system's reliability and responsiveness
+
 
 
 ### mnist-draw
@@ -79,7 +92,8 @@ Source code for projects can be found on my [Github](https://github.com/khtran1)
 ###### Sept 2021 | Python, discord.py
 
 * Implemented a Discord bot using a Python Discord API wrapper (discord.py, Nextcord) and hosted via Heroku.
-* Some features include a music player, minigames, and, adapting the Markov chain model from the Twitter bot below, a message generator.
+* Features a music player, minigames, and, adapting the Markov chain model from the Twitter bot below, a message generator.
+* Utilized by dozens of Discord communities at peak usage, reaching estimated audience of 800+ users
 
 
 ### "@wine_bot_mathew" - Tweet Generating Twitter Bot
@@ -93,7 +107,7 @@ Source code for projects can be found on my [Github](https://github.com/khtran1)
 ---
 
 ### Technical Skills
-Languages: Python, C++, Java, Javascript, Dart, HTML/CSS, R, SQL, Bash/Shell, Assembly
+Languages: Python, C/C++, Java, Javascript, Dart, HTML/CSS, R, SQL, Bash/Shell, Assembly
 Frameworks: React, Node.js, Flutter, TensorFlow/Keras, Oracle Cloud, Git, Docker, Linux, Google Firebase
 
 ### Languages

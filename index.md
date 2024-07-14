@@ -6,10 +6,8 @@ title: Home
 
 # About
 
-Hi! I am a rising senior at UC Santa Barbara studying Computer Science, with a strong passion for software development and data science. Through my academic journey, I've been captivated by the art of coding, algorithmic problem-solving, and the potential for artificial intelligence and machine learning to revolutionize industries.
+Hi! I am a recent graduate from UC Santa Barbara with a Bachelor's in Computer Science. With a strong passion for software development and data science, I've been captivated by the art of coding, algorithmic problem-solving, and the potential for artificial intelligence and machine learning to revolutionize industries. 
 
-Below, you can find some of my past projects, or you can find my CV [here](/cv).
+I am currently open to full-time or internship positions in software or data engineering. My professional experience deals with financial data and markets, but I have interests in many other fields of software and data engineering, from biotech to hardware. Outside of work and school, I enjoy hiking, cooking, and dreaming of travelling the world!
 
-WIP - add rest of projects (Dec 2023)
-
-{% include archive.html %}
+For more information, you can find my CV [here](/cv) or reach out at my contact information above!
