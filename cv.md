@@ -8,11 +8,15 @@ title: CV
 
 {% include contact.html %}
 
+Click [here](/cv.pdf) for a condensed PDF of this page.
+
 ## Education
 ---
 
 ### University of California, Santa Barbara
 ###### Computer Science B.S. | Oct 2020 - June 2024
+
+College of Engineering Honors Program
 
 Partnerships and Finances Officer @ Gaucho Gaming
 * Coordinated yearly budgets and secured sponsorships and funding with various tech companies, including MSI, Corsair, and Seasonic
@@ -55,11 +59,11 @@ Partnerships and Finances Officer @ Gaucho Gaming
 
 Source code for projects can be found on my [Github](https://github.com/khtran1) or by request.
 
-### Financial Information eXchange Parser + Algorithmic Trader
-###### July 2024 | C++, Python
+### Financial Information eXchange (FIX) Parser + Algorithmic Trader
+###### July 2024 | C++, QuickFIX, Python
 
-* Working on an automatic algorithmic trading system utilizing the FIX protocol to receive real-time financial data
-* Planned features include financial modelling and execution of low-latency trades
+* Working on an algorithmic trading system utilizing the FIX protocol to receive real-time financial data
+* Planned features include financial modelling and automated execution of low-latency trades
 
 
 ### "Wave" - Social Mobile App
