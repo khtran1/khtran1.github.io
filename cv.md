@@ -16,7 +16,7 @@ Click [here](/cv.pdf) for a condensed PDF of this page.
 ### University of California, Santa Barbara
 ###### Computer Science B.S. | Oct 2020 - June 2024
 
-College of Engineering Honors Program
+College of Engineering Honors Program - GPA 3.58
 
 Partnerships and Finances Officer @ Gaucho Gaming
 * Coordinated yearly budgets and secured sponsorships and funding with various tech companies, including MSI, Corsair, and Seasonic
@@ -46,11 +46,13 @@ Partnerships and Finances Officer @ Gaucho Gaming
 ---
 
 ### Data Engineer Intern @ Daesy Analytics & Trading LLC
-###### Remote | May 2021 - Aug 2021
+###### Remote | May 2023 - Aug 2023
 
-* Engineered efficient data pipelines through statistical analysis of financial instruments and market data
-* Optimized database efficiency by ~45% by leading fellow interns within Agile team to extensively clean and normalize back-office data spreadsheets utilizing Python and SQL
-* Designed compelling and insightful data visualizations highlighting intricate patterns in financial market data with Python (MatPlotLib, Seaborn)
+* Designed and developed a new database management system, increasing efficiency by ~45% through indexing 
+and SQL query optimization, resulting in efficient and enhanced data retrieval
+* Engineered data pipelines through statistical analysis of large-scale financial market data using Python
+* Designed interactive data visualizations with Python (Matplotlib, Seaborn), enabling real-time insights and 
+dynamic analysis of complex financial market patterns
 
 
 
